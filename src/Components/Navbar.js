@@ -7,7 +7,7 @@ export default class Navbar extends Component {
                 <header id="header" className="fixed-top">
                     <div className="container d-flex align-items-center justify-content-between">
 
-                        <h1 className="logo"><a href="/">R4h1m4 RuNa</a></h1>
+                        <h1 className="logo"><a href="/">R4h1m@ RuNa</a></h1>
                         {/* <a href="index.html" className="logo"><img src="assets/img/logo.png" alt="" className="img-fluid" /></a> */}
 
                         <nav id="navbar" className="navbar">
