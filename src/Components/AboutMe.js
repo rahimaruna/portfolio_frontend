@@ -30,19 +30,19 @@ export default class AboutMe extends Component {
                                                 <p className="title-s">Skill</p>
                                                 <span>HTML</span> <span className="pull-right">85%</span>
                                                 <div className="progress">
-                                                    <div className="progress-bar" role="progressbar" style={{width: "85%" }}aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    <div className="progress-bar" role="progressbar" style={{ width: "85%" }} aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
                                                 </div>
                                                 <span>CSS3</span> <span className="pull-right">75%</span>
                                                 <div className="progress">
-                                                    <div className="progress-bar" role="progressbar" style={{width: "75%"}} aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    <div className="progress-bar" role="progressbar" style={{ width: "75%" }} aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                                                 </div>
                                                 <span>Python</span> <span className="pull-right">80%</span>
                                                 <div className="progress">
-                                                    <div className="progress-bar" role="progressbar" style={{width: "80%"}} aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    <div className="progress-bar" role="progressbar" style={{ width: "80%" }} aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                                                 </div>
                                                 <span>ML</span> <span className="pull-right">60%</span>
                                                 <div className="progress">
-                                                    <div className="progress-bar" role="progressbar" style={{width: "60%"}} aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+                                                    <div className="progress-bar" role="progressbar" style={{ width: "60%" }} aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -54,21 +54,9 @@ export default class AboutMe extends Component {
                                                     </h5>
                                                 </div>
                                                 <p className="lead">
-                                                    Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id
-                                                    imperdiet et, porttitor
-                                                    at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla
-                                                    porttitor accumsan tincidunt.
+                                                    My name is Rahima Akter, 24, graduated as a Software Engineer, looking for a full time job I can do SQA and Research Associate. I’m skilled with Python, ML and SQA, and I am trying to learn other SQA tools, step by step. Have one brother and an younger sister, brother is a Textile Engineer and my sister is still studying in college, so it is quite funny that I, as a girl, decided for software engineering.
                                                 </p>
-                                                <p className="lead">
-                                                    Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus suscipit tortor eget felis
-                                                    porttitor volutpat. Vestibulum
-                                                    ac diam sit amet quam vehicula elementum sed sit amet dui. porttitor at sem.
-                                                </p>
-                                                <p className="lead">
-                                                    Nulla porttitor accumsan tincidunt. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-                                                    Nulla porttitor accumsan
-                                                    tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-                                                </p>
+
                                             </div>
                                         </div>
                                     </div>
